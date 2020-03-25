@@ -3,8 +3,8 @@
 Course 2 of 6 in the [Machine Learning & Data Analysis Specialization](https://www.coursera.org/specializations/machine-learning-data-analysis)
 ***
 ## Syllabus
-1. Week 1: Machine Learning and Linear Models[]()
-2. Week 2: Overfitting and  Measures of Quality Assessment[]()
-3. Week 3: Linear Models: Classification and Practical Aspects[]()
-4. Week 4: Decision Trees and Ensemble Methods[]()
-5. Week 5: Neural Networks and Overview of Methods[]()
+1. [Week 1: Machine Learning and Linear Models](https://github.com/MLunov/Machine-Learning-Data-Analysis-Specialization-MIPT-Yandex/tree/master/course-2/week-1)
+2. [Week 2: Overfitting and  Measures of Quality Assessment](https://github.com/MLunov/Machine-Learning-Data-Analysis-Specialization-MIPT-Yandex/tree/master/course-2/week-2)
+3. [Week 3: Linear Models: Classification and Practical Aspects](https://github.com/MLunov/Machine-Learning-Data-Analysis-Specialization-MIPT-Yandex/tree/master/course-2/week-3)
+4. [Week 4: Decision Trees and Ensemble Methods](https://github.com/MLunov/Machine-Learning-Data-Analysis-Specialization-MIPT-Yandex/tree/master/course-2/week-4)
+5. [Week 5: Neural Networks and Overview of Methods](https://github.com/MLunov/Machine-Learning-Data-Analysis-Specialization-MIPT-Yandex/tree/master/course-2/week-5)
