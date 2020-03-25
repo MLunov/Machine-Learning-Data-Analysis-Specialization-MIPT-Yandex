@@ -5,7 +5,7 @@ This repository contains materials and solutions for [Machine Learning & Data An
 **Please make homeworks by your own and look in this repository only when you've already done the assignments. Anyway, it is in your interests if you really want to learn something**.
 *** 
 Specialization consists of 6 courses:
-1. [Mathematics and Python for data analysis](https://github.com/MLunov/Machine-Learning-Data-Analysis-Specialization-MIPT-Yandex/tree/master/course-1)
+1. [Mathematics and Python for Data Analysis](https://github.com/MLunov/Machine-Learning-Data-Analysis-Specialization-MIPT-Yandex/tree/master/course-1)
 2. [Supervised Learning on Labeled Data](https://github.com/MLunov/Machine-Learning-Data-Analysis-Specialization-MIPT-Yandex/tree/master/course-2)
 3. [Unsupervised Learning](https://github.com/MLunov/Machine-Learning-Data-Analysis-Specialization-MIPT-Yandex/tree/master/course-3)
 4. Statistics for Data Analysis[]()
