@@ -4,7 +4,7 @@
 Course 3 of 6 in the [Machine Learning & Data Analysis Specialization](https://www.coursera.org/specializations/machine-learning-data-analysis)
 ***
 ## Syllabus
-1. Week 1: Clustering[]()
-2. Week 2: Dimensionality Reduction and Matrix Decomposition[]()
-3. Week 3: Visualization and Anomaly Detection[]()
-4. Week 4: Topic model[]()
+1. [Week 1: Clustering](https://github.com/MLunov/Machine-Learning-Data-Analysis-Specialization-MIPT-Yandex/tree/master/course-3/week-1)
+2. [Week 2: Dimensionality Reduction and Matrix Decomposition](https://github.com/MLunov/Machine-Learning-Data-Analysis-Specialization-MIPT-Yandex/tree/master/course-3/week-2)
+3. [Week 3: Visualization and Anomaly Detection](https://github.com/MLunov/Machine-Learning-Data-Analysis-Specialization-MIPT-Yandex/tree/master/course-3/week-3)
+4. [Week 4: Topic model](https://github.com/MLunov/Machine-Learning-Data-Analysis-Specialization-MIPT-Yandex/tree/master/course-3/week-4)
