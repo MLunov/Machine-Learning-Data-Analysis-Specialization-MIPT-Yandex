@@ -3,7 +3,7 @@
 Course 1 of 6 in the [Machine Learning & Data Analysis Specialization](https://www.coursera.org/specializations/machine-learning-data-analysis)
 ***
 ## Syllabus
-1. Week 1: Introduction[]()
-2. Week 2: Python Libraries and Linear Algebra[]()
-3. Week 3: Optimization and Matrix Decompositions[]()
-4. Week 4: Randomness[]()
+1. [Week 1: Introduction](https://github.com/MLunov/Machine-Learning-Data-Analysis-Specialization-MIPT-Yandex/tree/master/course-1/week-1)
+2. [Week 2: Python Libraries and Linear Algebra](https://github.com/MLunov/Machine-Learning-Data-Analysis-Specialization-MIPT-Yandex/tree/master/course-1/week-2)
+3. [Week 3: Optimization and Matrix Decompositions](https://github.com/MLunov/Machine-Learning-Data-Analysis-Specialization-MIPT-Yandex/tree/master/course-1/week-3)
+4. [Week 4: Randomness](https://github.com/MLunov/Machine-Learning-Data-Analysis-Specialization-MIPT-Yandex/tree/master/course-1/week-4)
