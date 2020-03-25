@@ -7,5 +7,3 @@ Course 1 of 6 in the [Machine Learning & Data Analysis Specialization](https://w
 2. Week 2: Python Libraries and Linear Algebra[]()
 3. Week 3: Optimization and Matrix Decompositions[]()
 4. Week 4: Randomness[]()
-
-
